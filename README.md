@@ -1,5 +1,5 @@
 # breast-body-fusion
-MATLAB functions to resize, place, and fuse breast phantoms to a whole-body voxel model
+MATLAB functions to resize, place, and fuse breast phantoms to a whole-body voxel model. The breast Phantoms can be downloaded at uwcem.ece.wisc.edu/MRIdatabase/.
 
 Supporting Information
 
